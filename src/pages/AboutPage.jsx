@@ -17,7 +17,7 @@ function AboutPage() {
                 <p>This is a React app to leave feedback for a product or service.</p>
                 <p>Done by Valentine Striganoff, designed by Brad Traversy</p>
                 <p>
-                <Link to='/'>Back to Home</Link>
+                <Link to='/feedback-app'>Back to Home</Link>
                 </p>
                 </div>
         </Card>
